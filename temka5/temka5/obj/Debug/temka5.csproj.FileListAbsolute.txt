@@ -1,0 +1,7 @@
+C:\Users\harve\source\repos\temka5\temka5\bin\Debug\temka5.exe.config
+C:\Users\harve\source\repos\temka5\temka5\bin\Debug\temka5.exe
+C:\Users\harve\source\repos\temka5\temka5\bin\Debug\temka5.pdb
+C:\Users\harve\source\repos\temka5\temka5\obj\Debug\temka5.csproj.AssemblyReference.cache
+C:\Users\harve\source\repos\temka5\temka5\obj\Debug\temka5.csproj.CoreCompileInputs.cache
+C:\Users\harve\source\repos\temka5\temka5\obj\Debug\temka5.exe
+C:\Users\harve\source\repos\temka5\temka5\obj\Debug\temka5.pdb
